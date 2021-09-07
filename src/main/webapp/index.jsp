@@ -23,8 +23,8 @@
     <div class="gradient-button">
         <a href="" class="gradient-button">Главная</a>
         <a href="" class="gradient-button">Магазин</a>
-        <a href="" class="gradient-button">Контакты</a>
-        <a href="" class="gradient-button">О нас</a>
+        <a href="contact.jsp" class="gradient-button">Контакты</a>
+        <a href="about.jsp" class="gradient-button">О нас</a>
         <input type="text" placeholder="Search..">
 
         <div class="dropdown">
@@ -62,6 +62,17 @@
     <a href="#" id="projects">Nintendo</a>
 
 </div>
+
+<div class="product-item">
+    <img src="https://files.fm/thumb_show.php?i=utsyya2n3">
+    <div class="product-list">
+        <h3>Grand Theft Auto</h3>
+        <span class="price">BYN 120</span>
+        <a class="btn-ens-action btn-ens-style" data-rel="4a9f99dc105">Купить</a>
+    </div>
+
+</div>
+</div>
 <div class="product-item">
     <img src="https://files.fm/thumb_show.php?i=utsyya2n3">
     <div class="product-list">
@@ -69,7 +80,9 @@
         <span class="price">BYN 170</span>
         <a class="btn-ens-action btn-ens-style" data-rel="4a9f99dc105">Купить</a>
     </div>
+
 </div>
+
 <br/>
 
 </body>
